@@ -2,6 +2,6 @@ import React from 'react'
 // Beg'ruz
 export default function Course() {
   return (
-    <div>Course</div>
+    <div className="bg-red-500 text-yellow-500">Course</div>
   )
 }
