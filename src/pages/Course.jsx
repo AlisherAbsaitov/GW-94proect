@@ -90,7 +90,7 @@ export default function Course() {
 
           <div className="flex items-center justify-between gap-4">
             <button className="hidden md:flex items-center justify-center w-10 h-10 rounded-full hover:bg-gray-200 text-slate-700 transition-colors">
-              &#8592;
+              
             </button>
 
             <div className="bg-white p-10 md:p-12 rounded-lg shadow-sm border border-gray-100 text-left flex-1 max-w-2xl mx-auto relative">
@@ -112,7 +112,7 @@ export default function Course() {
             </div>
 
             <button className="w-10 h-10 bg-orange-500 hover:bg-orange-600 text-white rounded-full flex items-center justify-center shadow-md transition-colors text-sm font-bold">
-              &#8594;
+              
             </button>
           </div>
 
@@ -159,7 +159,7 @@ export default function Course() {
               <div className="absolute bottom-0 right-0 w-40 h-40 bg-liner-to-tl from-amber-400 via-red-400 to-blue-500 opacity-30 rounded-tl-full pointer-events-none"></div>
 
               <div className="text-center space-y-1 pt-4 relative z-10">
-                <span className="text-[10px] tracking-widest text-slate-400 uppercase font-semibold">Certificate</span>
+                <span className="text-[10px] tracking-widest text-slawte-400 uppercase font-semibold">Certificate</span>
                 <h3 className="text-2xl font-black text-red-500 tracking-wider uppercase">Certificate</h3>
                 <p className="text-[9px] text-slate-400 uppercase tracking-tight">The certificate is presented to:</p>
               </div>
@@ -192,8 +192,7 @@ export default function Course() {
       <div className="bg-[#FFEBE5] py-20 px-6 text-center relative overflow-hidden">
 
         <div className="absolute bottom-0 left-0 w-full flex justify-between px-4 md:px-12 opacity-25 pointer-events-none select-none text-3xl">
-          <span>🎓🎓🎓</span>
-          <span>🎓🎓🎓</span>
+
         </div>
 
         <div className="max-w-2xl mx-auto relative z-10 space-y-4">
