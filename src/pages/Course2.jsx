@@ -415,7 +415,7 @@ export default function Course2() {
     </h3>
     
     <div className='flex'>
-      <p className="text-orange-600">
+      <p className="text-orange-700">
       $100  
       </p>
       <p className='text-gray-600'> | by Jerome Bell</p>
@@ -431,7 +431,7 @@ export default function Course2() {
     </h3>
     
     <div className='flex'>
-      <p className="text-orange-600">
+      <p className="text-orange-700">
       $480 
       </p>
       <p className='text-gray-600'> | by Marvin McKinney</p>
