@@ -11,6 +11,7 @@ import Course from "./pages/Course";
 import SinglePost from "./pages/SinglePost";
 import Event from "./pages/Event";
 
+
 export default function App() {
   return (
     <React.Fragment>
